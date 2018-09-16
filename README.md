@@ -1,3 +1,3 @@
-# namrata-b.github.io
+# namratabandekar.github.io
 
 Personal website of Namrata Bandekar.
